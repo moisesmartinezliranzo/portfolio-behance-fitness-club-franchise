@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-behance-fitness-club-franchise",
+  "version": "1.0.0",
+  "description": "https://www.behance.net/gallery/94841485/Landing-page-for-Fitness-Club-Franchise?tracking_source=search_projects_recommended%7Cgym",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisesmartinezliranzo/portfolio-behance-fitness-club-franchise.git"
+  },
+  "author": "Moises Martinez Liranzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moisesmartinezliranzo/portfolio-behance-fitness-club-franchise/issues"
+  },
+  "homepage": "https://github.com/moisesmartinezliranzo/portfolio-behance-fitness-club-franchise#readme"
+}
